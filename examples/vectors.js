@@ -18,7 +18,7 @@ var docDefinition = {
 			text: [
 				'This ',
 				{ text: 'is', color: 'green' },
-				' the first ',
+				' the first xd xd xd ',
 				{ text: 'paragraph', color: 'red' }
 			]
 		},
